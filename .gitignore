@@ -1,3 +1,4 @@
-.project/
-.settings/
 .tmh/
+.objects/
+.entities/
+.templates/
